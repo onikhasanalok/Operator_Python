@@ -44,3 +44,11 @@ x=33
 y=4
 z=divmod(x,y)
 print(z)
+
+#Divmod function using in Reminder Operator for indexing
+
+x1=33
+y1=4
+z1=divmod(x1,y1)
+print("Divided by: ",z1[0])
+print("Reminder is: ",z1[1])
