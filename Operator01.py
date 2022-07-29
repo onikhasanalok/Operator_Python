@@ -1,5 +1,8 @@
 #Operator
 
+from unittest import result
+
+
 a=25
 b=36
 c=a+b
@@ -30,3 +33,9 @@ print("Result of Plus Operator: ",D)
 print("Result of Minus Operator: ",E)
 print("Result of Division Operator: ",F)
 print("Result of Multiplication Operator: ",G)
+
+#How to use reminder operator (%)
+num1=55
+num2=2
+result=num1%num2
+print("Result of Reminder Operator: ",result)
