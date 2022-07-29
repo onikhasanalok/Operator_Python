@@ -6,6 +6,7 @@ c=a+b
 
 print(c)
 
+#How to use (+,-,/,*) operator
 
 Price_of_first_Item=25/5
 Price_of_second_Item=25.5*2
